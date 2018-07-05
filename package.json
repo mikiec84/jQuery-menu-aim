@@ -1,5 +1,5 @@
 {
-  "name": "@brndm/jquery-menu-aim",
+  "name": "@ermakovich/jquery-menu-aim",
   "version": "1.0.0",
   "description": "jQuery-menu-aim ===============",
   "main": "jquery.menu-aim.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandedme/jQuery-menu-aim.git"
+    "url": "git+https://github.com/ermakovich/jQuery-menu-aim.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brandedme/jQuery-menu-aim/issues"
+    "url": "https://github.com/ermakovich/jQuery-menu-aim/issues"
   },
-  "homepage": "https://github.com/brandedme/jQuery-menu-aim#readme"
+  "homepage": "https://github.com/ermakovich/jQuery-menu-aim#readme"
 }
